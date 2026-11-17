@@ -49,8 +49,6 @@ Plus pgvector, embeddings (`multilingual-e5`), RAG and the Claude API.
   <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D towers of my contributions over the past year, with a radar of contribution types and a language breakdown">
 </picture>
 
-<img src="metrics.isocalendar.svg" width="49%" alt="Isometric 3D contribution calendar for the past year, with commit streaks and commits per day"> <img src="metrics.languages.svg" width="49%" alt="Most used languages and a graph of lines of code added and removed over time">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-light.svg" width="100%" alt="A snake eating this year's contribution graph">
