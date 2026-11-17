@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="Yung-Hsuan Chung. AI and Python developer from Chile. Builds hybrid search on Postgres and pgvector, assistants that show their reasons, and a raccoon robot on a Raspberry Pi 4.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=cyber">
+  <img src="assets/hero-light.svg?v=cyber" width="100%" alt="Yung-Hsuan Chung. AI and Python developer from Chile. Builds hybrid search on Postgres and pgvector, assistants that show their reasons, and a raccoon robot on a Raspberry Pi 4.">
 </picture>
 
 > **Hi, I'm Yung.** I build AI products end to end from Chile. Many of my project docs are in Spanish; the code speaks every language.
@@ -11,8 +11,8 @@
 
 ## Featured work
 
-<a href="https://github.com/yungzyx/rappi-dlab-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mochi-dark.svg"><img src="assets/card-mochi-light.svg" width="49%" alt="Mochi: multivertical recommendation engine and app prototype built in the dLab program with Rappi Chile."></picture></a>
-<a href="https://github.com/yungzyx/rako-pi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rako-dark.svg"><img src="assets/card-rako-light.svg" width="49%" alt="Rako: raccoon desk robot on a Raspberry Pi 4 that helps students get back into their routine."></picture></a>
+<a href="https://github.com/yungzyx/rappi-dlab-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mochi-dark.svg?v=cyber"><img src="assets/card-mochi-light.svg?v=cyber" width="49%" alt="Mochi: multivertical recommendation engine and app prototype built in the dLab program with Rappi Chile."></picture></a>
+<a href="https://github.com/yungzyx/rako-pi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rako-dark.svg?v=cyber"><img src="assets/card-rako-light.svg?v=cyber" width="49%" alt="Rako: raccoon desk robot on a Raspberry Pi 4 that helps students get back into their routine."></picture></a>
 
 ## Hackathons & programs
 
@@ -45,6 +45,6 @@ Plus pgvector, embeddings (`multilingual-e5`), RAG and the Claude API.
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-light.svg" width="100%" alt="A snake eating this year's contribution graph">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-dark.svg?v=cyber">
+  <img src="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-light.svg?v=cyber" width="100%" alt="A snake eating this year's contribution graph">
 </picture>
