@@ -36,18 +36,13 @@
 ## Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,react,vite,js,raspberrypi,linux,githubactions&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cpostgres%2Cdocker%2Creact%2Cvite%2Cjs%2Craspberrypi%2Clinux%2Cgithubactions&theme=dark">
   <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,react,vite,js,raspberrypi,linux,githubactions&theme=light" alt="Python, FastAPI, PostgreSQL, Docker, React, Vite, JavaScript, Raspberry Pi, Linux, GitHub Actions">
 </picture>
 
 Plus pgvector, embeddings (`multilingual-e5`), RAG and the Claude API.
 
 ## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D towers of my contributions over the past year, with a radar of contribution types and a language breakdown">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-dark.svg">
