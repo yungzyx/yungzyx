@@ -30,8 +30,8 @@
 | When | Where | What I built |
 | :--- | :--- | :--- |
 | **Sep–Nov 2026** | dLab program × Rappi Chile | [**Mochi**](https://github.com/yungzyx/rappi-dlab-mvp): a multivertical engine + navigable app prototype + business panel, on the real public catalog with hybrid pgvector search. [Full project history](https://github.com/yungzyx/project-rappi-dlab-v0). |
-| **2026** | Hack4Seniors · UDD | [**Silver Minds**](https://github.com/yungzyx/Hackaton-Hack4Seniors-UDD): a screen-and-voice assistant for older adults, with confirmed memory, RAG, safe responses and a consent-based family panel. |
-| **2025** | IBM Applied Data Science Capstone | [**SpaceX Falcon 9**](https://github.com/yungzyx/SpaceX-LLM-YungC.): an ML pipeline that predicts first-stage landing outcomes. |
+| **2026** | Hack4Seniors · UDD | [**Silver Minds**](https://github.com/yungzyx/silver-minds): a screen-and-voice assistant for older adults, with confirmed memory, RAG, safe responses and a consent-based family panel. |
+| **2025** | IBM Applied Data Science Capstone | [**SpaceX Falcon 9**](https://github.com/yungzyx/spacex-falcon9-landing-prediction): an ML pipeline that predicts first-stage landing outcomes. |
 
 ## Toolbox
 
