@@ -23,43 +23,45 @@
   .p1{opacity:1} .c1{transform:translateX(436px)} .ring{opacity:0}
 }
 </style>
-<rect x="1" y="1" width="998" height="298" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
-<path d="M1 15a14 14 0 0 1 14-14h970a14 14 0 0 1 14 14v25H1z" fill="#1E293B" opacity=".55"/>
+<rect x="1" y="1" width="998" height="298" rx="14" fill="#0B0D17" stroke="#22263A" stroke-width="2"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00FF9F"/><stop offset=".5" stop-color="#00B8FF"/><stop offset="1" stop-color="#BD00FF"/></linearGradient></defs>
+<path d="M1 15a14 14 0 0 1 14-14h970a14 14 0 0 1 14 14v25H1z" fill="#22263A" opacity=".55"/>
+<rect x="1" y="40" width="998" height="2" fill="url(#g)"/>
 <circle cx="26" cy="21" r="6" fill="#FF5F57"/><circle cx="46" cy="21" r="6" fill="#FEBC2E"/><circle cx="66" cy="21" r="6" fill="#28C840"/>
-<text x="500" y="26" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#94A3B8">yungzyx — zsh</text>
+<text x="500" y="26" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9AA3B8">yungzyx — zsh</text>
 
-<text x="48" y="88" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#94A3B8"><tspan fill="#22C55E">❯</tspan> whoami</text>
+<text x="48" y="88" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="18" fill="#9AA3B8"><tspan fill="#00FF9F">❯</tspan> whoami</text>
 <text x="48" y="146" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="46" font-weight="700" fill="#F8FAFC">Yung-Hsuan Chung</text>
-<text x="48" y="186" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#94A3B8">AI &amp; Python developer · Chile · ships end to end</text>
+<text x="48" y="186" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#9AA3B8">AI &amp; Python developer · Chile · ships end to end</text>
 
-<text x="48" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#22C55E">❯ <tspan fill="#94A3B8">$</tspan></text>
+<text x="48" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#00FF9F">❯ <tspan fill="#9AA3B8">$</tspan></text>
 
   <g class="p p1">
     <text x="92" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#F8FAFC">hybrid search on Postgres + pgvector</text>
     <g class="c c1">
-      <rect x="92" y="228" width="520" height="34" fill="#0F172A"/>
-      <rect class="cur" x="94" y="234" width="11" height="23" fill="#22C55E"/>
+      <rect x="92" y="228" width="520" height="34" fill="#0B0D17"/>
+      <rect class="cur" x="94" y="234" width="11" height="23" fill="#BD00FF"/>
     </g>
   </g>
   <g class="p p2">
     <text x="92" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#F8FAFC">assistants that show their reasons</text>
     <g class="c c2">
-      <rect x="92" y="228" width="520" height="34" fill="#0F172A"/>
-      <rect class="cur" x="94" y="234" width="11" height="23" fill="#22C55E"/>
+      <rect x="92" y="228" width="520" height="34" fill="#0B0D17"/>
+      <rect class="cur" x="94" y="234" width="11" height="23" fill="#BD00FF"/>
     </g>
   </g>
   <g class="p p3">
     <text x="92" y="252" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="20" fill="#F8FAFC">a raccoon robot on a Raspberry Pi 4</text>
     <g class="c c3">
-      <rect x="92" y="228" width="520" height="34" fill="#0F172A"/>
-      <rect class="cur" x="94" y="234" width="11" height="23" fill="#22C55E"/>
+      <rect x="92" y="228" width="520" height="34" fill="#0B0D17"/>
+      <rect class="cur" x="94" y="234" width="11" height="23" fill="#BD00FF"/>
     </g>
   </g>
 
 <g aria-hidden="true">
-  <line x1="842" y1="160" x2="812" y2="132" stroke="#22C55E" stroke-width="1.5" stroke-dasharray="4 4" opacity=".7"/><line x1="842" y1="160" x2="868" y2="96" stroke="#22C55E" stroke-width="1.5" stroke-dasharray="4 4" opacity=".7"/><line x1="842" y1="160" x2="850" y2="222" stroke="#22C55E" stroke-width="1.5" stroke-dasharray="4 4" opacity=".7"/><circle cx="760" cy="88" r="5" fill="#334155"/><circle cx="812" cy="132" r="5" fill="#22C55E"/><circle cx="868" cy="96" r="5" fill="#22C55E"/><circle cx="905" cy="168" r="5" fill="#334155"/><circle cx="790" cy="196" r="5" fill="#334155"/><circle cx="850" cy="222" r="5" fill="#22C55E"/><circle cx="938" cy="112" r="5" fill="#334155"/><circle cx="720" cy="150" r="5" fill="#334155"/><circle cx="955" cy="214" r="5" fill="#334155"/><circle cx="884" cy="58" r="5" fill="#334155"/><circle cx="742" cy="236" r="5" fill="#334155"/>
-  <circle class="ring" cx="842" cy="160" r="9" fill="none" stroke="#22C55E" stroke-width="2"/>
-  <circle cx="842" cy="160" r="8" fill="#0F172A" stroke="#22C55E" stroke-width="3"/>
-  <text x="856" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#94A3B8">query · k=3</text>
+  <line x1="842" y1="160" x2="812" y2="132" stroke="#00B8FF" stroke-width="1.5" stroke-dasharray="4 4" opacity=".8"/><line x1="842" y1="160" x2="868" y2="96" stroke="#00B8FF" stroke-width="1.5" stroke-dasharray="4 4" opacity=".8"/><line x1="842" y1="160" x2="850" y2="222" stroke="#00B8FF" stroke-width="1.5" stroke-dasharray="4 4" opacity=".8"/><circle cx="760" cy="88" r="5" fill="#2E3350"/><circle cx="812" cy="132" r="5" fill="#00B8FF"/><circle cx="868" cy="96" r="5" fill="#00B8FF"/><circle cx="905" cy="168" r="5" fill="#2E3350"/><circle cx="790" cy="196" r="5" fill="#2E3350"/><circle cx="850" cy="222" r="5" fill="#00B8FF"/><circle cx="938" cy="112" r="5" fill="#2E3350"/><circle cx="720" cy="150" r="5" fill="#2E3350"/><circle cx="955" cy="214" r="5" fill="#2E3350"/><circle cx="884" cy="58" r="5" fill="#2E3350"/><circle cx="742" cy="236" r="5" fill="#2E3350"/>
+  <circle class="ring" cx="842" cy="160" r="9" fill="none" stroke="#BD00FF" stroke-width="2"/>
+  <circle cx="842" cy="160" r="8" fill="#0B0D17" stroke="#BD00FF" stroke-width="3"/>
+  <text x="856" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#9AA3B8">query · k=3</text>
 </g>
 </svg>

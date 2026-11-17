@@ -8,13 +8,14 @@
 @keyframes glow{from{opacity:.55}to{opacity:1}}
 @media (prefers-reduced-motion: reduce){.eye,.next{animation:none!important}}
 </style>
-<rect x="1" y="1" width="478" height="258" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
-<rect x="1" y="1" width="6" height="258" rx="3" fill="#22C55E"/>
-<text x="28" y="44" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.2" fill="#22C55E">PHYSICAL AI · RASPBERRY PI 4</text>
+<rect x="1" y="1" width="478" height="258" rx="14" fill="#0B0D17" stroke="#22263A" stroke-width="2"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF9F"/><stop offset=".5" stop-color="#00B8FF"/><stop offset="1" stop-color="#BD00FF"/></linearGradient></defs>
+<rect x="1" y="1" width="6" height="258" rx="3" fill="url(#g)"/>
+<text x="28" y="44" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.2" fill="#00FF9F">PHYSICAL AI · RASPBERRY PI 4</text>
 <text x="28" y="80" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#F8FAFC">Rako</text>
-<text x="452" y="80" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#94A3B8">↗</text>
-<text x="28" y="108" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#94A3B8">A raccoon desk companion that helps university</text><text x="28" y="128" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#94A3B8">students get back into their routine: voice chat,</text><text x="28" y="148" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#94A3B8">focus sessions, OLED eyes and on-device memory.</text>
-<rect x="28" y="160" width="104" height="42" rx="8" fill="#05070A" stroke="#334155" stroke-width="1.5"/><rect class="eye" x="50" y="170" width="22" height="22" rx="7" fill="#7DF9FF"/><rect class="eye" x="88" y="170" width="22" height="22" rx="7" fill="#7DF9FF"/><circle cx="152" cy="181" r="5" fill="#22C55E"/><text x="166" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#F8FAFC">listening</text><text x="252" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#94A3B8">· focus 25:00</text>
-<line x1="28" y1="216" x2="452" y2="216" stroke="#1E293B" stroke-width="1.5"/>
-<text x="28" y="240" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#94A3B8">Python · voice · OLED · local memory · safety layer</text>
+<text x="452" y="80" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#9AA3B8">↗</text>
+<text x="28" y="108" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">A raccoon desk companion that helps university</text><text x="28" y="128" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">students get back into their routine: voice chat,</text><text x="28" y="148" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">focus sessions, OLED eyes and on-device memory.</text>
+<rect x="28" y="160" width="104" height="42" rx="8" fill="#05070A" stroke="#2E3350" stroke-width="1.5"/><rect class="eye" x="50" y="170" width="22" height="22" rx="7" fill="#00B8FF"/><rect class="eye" x="88" y="170" width="22" height="22" rx="7" fill="#00B8FF"/><circle cx="152" cy="181" r="5" fill="#00FF9F"/><text x="166" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#F8FAFC">listening</text><text x="252" y="186" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#9AA3B8">· focus 25:00</text>
+<line x1="28" y1="216" x2="452" y2="216" stroke="#22263A" stroke-width="1.5"/>
+<text x="28" y="240" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9AA3B8">Python · voice · OLED · local memory · safety layer</text>
 </svg>
