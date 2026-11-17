@@ -44,7 +44,13 @@ Plus pgvector, embeddings (`multilingual-e5`), RAG and the Claude API.
 
 ## Activity
 
-<img src="metrics.languages.svg" width="49%" alt="Most used languages and lines of code changed, updated daily"> <img src="metrics.isocalendar.svg" width="49%" alt="Contribution calendar for the past year, updated daily">
+<img src="metrics.skyline.svg" width="100%" alt="A rotating 3D skyline of my contributions this year, one tower per day">
+
+<img src="metrics.isocalendar.svg" width="100%" alt="Isometric 3D contribution calendar for the past year, with commit streaks and commits per day">
+
+<img src="metrics.languages.svg" width="49%" alt="Most used languages and a graph of lines of code added and removed over time"> <img src="metrics.habits.svg" width="49%" alt="Coding habits: when I commit by hour and weekday, and recently used languages">
+
+<img src="metrics.achievements.svg" width="100%" alt="GitHub achievements ranked by activity">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yungzyx/yungzyx/output/snake-dark.svg">
