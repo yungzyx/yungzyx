@@ -7,7 +7,7 @@
 
 - I build AI products **end to end**: scraping and data in Postgres + pgvector, evaluated hybrid search, FastAPI services, React front ends, and the occasional robot.
 - I care about AI that is **honest about its limits**: visible reasons for every suggestion, safe answers, consent-first data.
-- **Right now:** wrapping up Mochi with team Rappitouille in the dLab program. I just shipped **Agora** at **Platanus Hack 26** (Nov 20–22, Santiago).
+- **Right now:** wrapping up Mochi with team Rappitouille in the dLab program. I just shipped **Agora** at **Platanus Hack 26**, and next I'm heading to **Hack Infra Futuro** (Dec 5–6, Santiago).
 
 ## Featured work
 
@@ -19,6 +19,14 @@
 ## Hackathons & programs
 
 <table>
+  <tr>
+    <td width="220"><img src="assets/hack-infra-futuro-badge.jpg" width="200" alt="My Hack Infra Futuro hacker badge from Velum Labs and Universidad del Desarrollo: Yung-Hsuan Chung, Santiago, December 5 to 6, 2026"></td>
+    <td>
+      <sub>NEXT UP · DEC 5–6, 2026 · SANTIAGO</sub>
+      <h3>Hack Infra Futuro</h3>
+      <p>I'm competing as a <b>hacker</b> at Velum Labs and Universidad del Desarrollo's hackathon. Whatever I build that weekend will land here.</p>
+    </td>
+  </tr>
   <tr>
     <td width="220"><img src="assets/platanus-hack-26-badge.jpg" width="200" alt="My Platanus Hack 26 hacker badge: Yung-Hsuan Chung, @yungzyx, Santiago, November 20 to 22, 2026"></td>
     <td>
