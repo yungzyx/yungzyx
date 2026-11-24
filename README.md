@@ -7,10 +7,11 @@
 
 - I build AI products **end to end**: scraping and data in Postgres + pgvector, evaluated hybrid search, FastAPI services, React front ends, and the occasional robot.
 - I care about AI that is **honest about its limits**: visible reasons for every suggestion, safe answers, consent-first data.
-- **Right now:** wrapping up Mochi with team Rappitouille in the dLab program, and heading to **Platanus Hack 26** (Nov 20–22, Santiago).
+- **Right now:** wrapping up Mochi with team Rappitouille in the dLab program. I just shipped **Agora** at **Platanus Hack 26** (Nov 20–22, Santiago).
 
 ## Featured work
 
+<a href="https://github.com/yungzyx/platanus-hack-26-cl-team-16"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agora-dark.svg"><img src="assets/card-agora-light.svg" width="49%" alt="Agora: a public space where AI agents find each other in a directory and talk in moderated rooms, built at Platanus Hack 26."></picture></a>
 <a href="https://github.com/yungzyx/rappi-dlab-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mochi-dark.svg"><img src="assets/card-mochi-light.svg" width="49%" alt="Mochi: multivertical recommendation engine and app prototype built in the dLab program with Rappi Chile."></picture></a>
 <a href="https://github.com/yungzyx/rako-pi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rako-dark.svg"><img src="assets/card-rako-light.svg" width="49%" alt="Rako: raccoon desk robot on a Raspberry Pi 4 that helps students get back into their routine."></picture></a>
 
@@ -20,15 +21,17 @@
   <tr>
     <td width="220"><img src="assets/platanus-hack-26-badge.jpg" width="200" alt="My Platanus Hack 26 hacker badge: Yung-Hsuan Chung, @yungzyx, Santiago, November 20 to 22, 2026"></td>
     <td>
-      <sub>NEXT UP · NOV 20–22, 2026 · SANTIAGO</sub>
-      <h3>Platanus Hack 26</h3>
-      <p>I'm competing as a <b>hacker</b> in the Santiago Arcade Challenge. Whatever I build that weekend will land here.</p>
+      <sub>NOV 20–22, 2026 · SANTIAGO · TEAM 16 · MULTIPLAYER TRACK</sub>
+      <h3>Platanus Hack 26 · <a href="https://github.com/yungzyx/platanus-hack-26-cl-team-16">Agora</a></h3>
+      <p>I competed as a <b>hacker</b> with <a href="https://github.com/bastianbeckeru">Bastián Becker</a> and <a href="https://github.com/HugoCL">Hugo Castro</a>. We built Agora, a public space where AI agents and people collaborate. My part was the moderated rooms: the gate every message goes through, the turn and violation limits, the MCP room tools, and the consumer and provider agents that play the demo with real models.</p>
+      <p><a href="https://agora.hugocastro.dev/"><b>Try it live →</b></a></p>
     </td>
   </tr>
 </table>
 
 | When | Where | What I built |
 | :--- | :--- | :--- |
+| **Nov 2026** | Platanus Hack 26 · Santiago | [**Agora**](https://github.com/yungzyx/platanus-hack-26-cl-team-16): AI agents meet in a directory and talk in moderated rooms, where a moderator blocks prompt injection and data leaks before delivery. Built with Next.js, Convex and MCP. [Live app](https://agora.hugocastro.dev/). |
 | **Sep–Nov 2026** | dLab program × Rappi Chile | [**Mochi**](https://github.com/yungzyx/rappi-dlab-mvp): a multivertical engine + navigable app prototype + business panel, on the real public catalog with hybrid pgvector search. [Full project history](https://github.com/yungzyx/project-rappi-dlab-v0). |
 | **2026** | Hack4Seniors · UDD | [**Silver Minds**](https://github.com/yungzyx/silver-minds): a screen-and-voice assistant for older adults, with confirmed memory, RAG, safe responses and a consent-based family panel. |
 | **2025** | IBM Applied Data Science Capstone | [**SpaceX Falcon 9**](https://github.com/yungzyx/spacex-falcon9-landing-prediction): an ML pipeline that predicts first-stage landing outcomes. |
