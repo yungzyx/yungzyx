@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 260" width="480" height="260" role="img" aria-labelledby="t d">
+<title id="t">Silver Minds</title>
+<desc id="d">Silver Minds: a screen-and-voice assistant for older adults built at Hack4Seniors UDD. The model proposes and the person confirms: memories, activity ideas and invitations only go out with their approval, and a safety check runs before any suggestion. FastAPI, Postgres with pgvector, RAG.</desc>
+<style>
+.eye{transform-box:fill-box;transform-origin:center;animation:blink 5s infinite}
+@keyframes blink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.1)}}
+.next{animation:glow 2s ease-in-out infinite alternate}
+@keyframes glow{from{opacity:.55}to{opacity:1}}
+@media (prefers-reduced-motion: reduce){.eye,.next{animation:none!important}}
+</style>
+<rect x="1" y="1" width="478" height="258" rx="14" fill="#0B0D17" stroke="#22263A" stroke-width="2"/>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00FF9F"/><stop offset=".5" stop-color="#00B8FF"/><stop offset="1" stop-color="#BD00FF"/></linearGradient></defs>
+<rect x="1" y="1" width="6" height="258" rx="3" fill="url(#g)"/>
+<text x="28" y="44" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.2" fill="#00FF9F">HACK4SENIORS · UDD · 2026</text>
+<text x="28" y="80" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#F8FAFC">Silver Minds</text>
+<text x="452" y="80" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#9AA3B8">↗</text>
+<text x="28" y="108" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">A screen-and-voice assistant for older adults. The</text><text x="28" y="128" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">model proposes and the person confirms: memories,</text><text x="28" y="148" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9AA3B8">plans and invitations only go out with their approval.</text>
+<rect x="28" y="166" width="88" height="30" rx="15" fill="none" stroke="#2E3350" stroke-width="1.5"/><text x="72.0" y="186" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#F8FAFC">proposes</text><text x="130" y="186" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#9AA3B8">→</text><rect x="144" y="166" width="114" height="30" rx="15" fill="none" stroke="#2E3350" stroke-width="1.5"/><text x="201.0" y="186" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#F8FAFC">draft invite</text><text x="272" y="186" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#9AA3B8">→</text><g class="next"><rect x="286" y="166" width="118" height="30" rx="15" fill="#00FF9F2E" stroke="#00FF9F" stroke-width="1.5" stroke-dasharray="5 4"/><text x="345.0" y="186" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="700" fill="#00FF9F">✓ you decide</text></g>
+<line x1="28" y1="216" x2="452" y2="216" stroke="#22263A" stroke-width="1.5"/>
+<text x="28" y="240" font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#9AA3B8">FastAPI · Postgres + pgvector · RAG · safety protocol</text>
+</svg>

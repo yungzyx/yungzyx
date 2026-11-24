@@ -14,6 +14,7 @@
 <a href="https://github.com/yungzyx/platanus-hack-26-cl-team-16"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-agora-dark.svg"><img src="assets/card-agora-light.svg" width="49%" alt="Agora: a public space where AI agents find each other in a directory and talk in moderated rooms, built at Platanus Hack 26."></picture></a>
 <a href="https://github.com/yungzyx/rappi-dlab-mvp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mochi-dark.svg"><img src="assets/card-mochi-light.svg" width="49%" alt="Mochi: multivertical recommendation engine and app prototype built in the dLab program with Rappi Chile."></picture></a>
 <a href="https://github.com/yungzyx/rako-pi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rako-dark.svg"><img src="assets/card-rako-light.svg" width="49%" alt="Rako: raccoon desk robot on a Raspberry Pi 4 that helps students get back into their routine."></picture></a>
+<a href="https://github.com/yungzyx/silver-minds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-silver-dark.svg"><img src="assets/card-silver-light.svg" width="49%" alt="Silver Minds: a screen-and-voice assistant for older adults where the model proposes and the person confirms, built at Hack4Seniors UDD."></picture></a>
 
 ## Hackathons & programs
 
